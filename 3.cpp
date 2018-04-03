@@ -11,6 +11,6 @@ while(n!=0)
 	r=r*10+remainder;
 	n/=10;
 }
-cout<<r;
+cout<<"reversed number"<<r;
 
 }
