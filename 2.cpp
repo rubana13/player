@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	int n,f=1,i ;
+	int n,f=1,i;
 	cout<<"Enter the number:";
 	cin>>n;
 	if(n<=20)
