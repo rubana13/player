@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -7,7 +8,7 @@ char str[100];
 int i;
 cout<<"Enter a day"<<endl;
 cin>>str;
-if(str=='sunday')//,'saturday','Sunday','Saturday','SUNDAY','SATURDAY')
+if(str=="sunday","saturday","Sunday","Saturday","SUNDAY","SATURDAY")
 {
     cout<<"Holiday";
 }
