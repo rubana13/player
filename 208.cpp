@@ -7,9 +7,9 @@ int a,b,c,ans,an;
 cin>>a>>b>>c;
 if(a,b,c<=100000)
 {
-ans=pow(a,b);
-an=ans%c;
-cout<<an;
+an=pow(a,b);
+ans=an%c;
+cout<<ans;
 }
 if(!cin)
 {
